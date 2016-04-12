@@ -1,5 +1,4 @@
 # git-classwork
-A repository for learning git in class
 
 1. Created a github account
 2. Created an ssh hey
